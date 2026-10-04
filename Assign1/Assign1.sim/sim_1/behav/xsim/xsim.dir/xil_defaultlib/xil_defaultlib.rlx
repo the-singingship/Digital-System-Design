@@ -1,0 +1,16 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Digital System Design/Assign1/Assign1.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+C:/Digital System Design/Assign1/Assign1.srcs/sim_1/new/tb_minimum_alu.v,1772883765,verilog,,,,tb_minimum_alu,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Digital System Design/Assign1/Assign1.srcs/sources_1/new/adder_input.v,1772911396,verilog,,C:/Digital System Design/Assign1/Assign1.srcs/sources_1/new/eight_bit.v,,adder_input,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Digital System Design/Assign1/Assign1.srcs/sources_1/new/eight_bit.v,1772883765,verilog,,C:/Users/shipr/OneDrive/Desktop/LabB-codes/eq1.v,,gt_8bit,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Digital System Design/Assign1/Assign1.srcs/sources_1/new/less_than_six_bit.v,1772883765,verilog,,C:/Digital System Design/Assign1/Assign1.srcs/sources_1/new/minimum_alu.v,,less_than_six_bit,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Digital System Design/Assign1/Assign1.srcs/sources_1/new/minimum_alu.v,1772883765,verilog,,C:/Digital System Design/Assign1/Assign1.srcs/sources_1/new/multiplexer_output.v,,minimum_alu,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Digital System Design/Assign1/Assign1.srcs/sources_1/new/multiplexer_output.v,1772883765,verilog,,C:/Digital System Design/Assign1/Assign1.srcs/sources_1/new/six_bit_xnor.v,,multiplexer_output,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Digital System Design/Assign1/Assign1.srcs/sources_1/new/six_bit_xnor.v,1772875333,verilog,,C:/Digital System Design/Assign1/Assign1.srcs/sources_1/new/two_bit.v,,six_bit_xnor,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Digital System Design/Assign1/Assign1.srcs/sources_1/new/two_bit.v,1772883765,verilog,,C:/Digital System Design/Assign1/Assign1.srcs/sim_1/new/tb_minimum_alu.v,,eq2;gt2,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/shipr/Downloads/Provided code/full_adder.v,1772834687,verilog,,C:/Digital System Design/Assign1/Assign1.srcs/sources_1/new/less_than_six_bit.v,,FullAdder,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/shipr/OneDrive/Desktop/6bit_ripple_adder.v,1772911396,verilog,,C:/Digital System Design/Assign1/Assign1.srcs/sources_1/new/adder_input.v,,ripple_adder_6bit,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/shipr/OneDrive/Desktop/LabB-codes/eq1.v,1772828737,verilog,,C:/Users/shipr/Downloads/Provided code/full_adder.v,,eq1,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,

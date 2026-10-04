@@ -1,0 +1,19 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef" \
+"../../../../../../Users/shipr/OneDrive/Desktop/6bit_ripple_adder.v" \
+"../../../../Assign1.srcs/sources_1/new/adder_input.v" \
+"../../../../Assign1.srcs/sources_1/new/eight_bit.v" \
+"../../../../../../Users/shipr/OneDrive/Desktop/LabB-codes/eq1.v" \
+"../../../../../../Users/shipr/Downloads/Provided code/full_adder.v" \
+"../../../../Assign1.srcs/sources_1/new/less_than_six_bit.v" \
+"../../../../Assign1.srcs/sources_1/new/minimum_alu.v" \
+"../../../../Assign1.srcs/sources_1/new/multiplexer_output.v" \
+"../../../../Assign1.srcs/sources_1/new/six_bit_xnor.v" \
+"../../../../Assign1.srcs/sources_1/new/two_bit.v" \
+"../../../../Assign1.srcs/sim_1/new/tb_minimum_alu.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
