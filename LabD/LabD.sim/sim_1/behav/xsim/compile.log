@@ -1,0 +1,15 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/shipr/Downloads/tutorial code/counter_rtl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'counter'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/shipr/Downloads/tutorial code/sine_package_rtl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/shipr/Downloads/tutorial code/digital_sine_rtl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sine'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/shipr/Downloads/tutorial code/frequency_trigger_rtl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'frequency_trigger'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/shipr/Downloads/tutorial code/pwm_rtl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pwm'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/shipr/Downloads/tutorial code/modulator_rtl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'modulator'
+WARNING: [VRFC 10-3093] actual for formal port 'div_factor_freqhigh' is neither a static name nor a globally static expression [C:/Users/shipr/Downloads/tutorial code/modulator_rtl.vhd:66]
+WARNING: [VRFC 10-3093] actual for formal port 'div_factor_freqlow' is neither a static name nor a globally static expression [C:/Users/shipr/Downloads/tutorial code/modulator_rtl.vhd:67]
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/shipr/Downloads/tutorial code/modulator_wrapper_rtl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'modulator_wrapper'

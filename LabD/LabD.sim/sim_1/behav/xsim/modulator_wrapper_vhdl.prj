@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../../Users/shipr/Downloads/tutorial code/counter_rtl.vhd" \
+"../../../../../../Users/shipr/Downloads/tutorial code/sine_package_rtl.vhd" \
+"../../../../../../Users/shipr/Downloads/tutorial code/digital_sine_rtl.vhd" \
+"../../../../../../Users/shipr/Downloads/tutorial code/frequency_trigger_rtl.vhd" \
+"../../../../../../Users/shipr/Downloads/tutorial code/pwm_rtl.vhd" \
+"../../../../../../Users/shipr/Downloads/tutorial code/modulator_rtl.vhd" \
+"../../../../../../Users/shipr/Downloads/tutorial code/modulator_wrapper_rtl.vhd" \
+
+# Do not sort compile order
+nosort

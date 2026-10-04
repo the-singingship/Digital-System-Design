@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "modulator_wrapper_behav" "xil_defaultlib.modulator_wrapper" -log "elaborate.log" 

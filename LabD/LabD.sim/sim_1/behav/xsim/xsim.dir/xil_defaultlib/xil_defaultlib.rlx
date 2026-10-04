@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Users/shipr/Downloads/tutorial code/counter_rtl.vhd,1772066218,vhdl,C:/Users/shipr/Downloads/tutorial code/modulator_rtl.vhd,,,counter,,,,,,,,
+C:/Users/shipr/Downloads/tutorial code/digital_sine_rtl.vhd,1771600034,vhdl,C:/Users/shipr/Downloads/tutorial code/modulator_rtl.vhd,,,sine,,,,,,,,
+C:/Users/shipr/Downloads/tutorial code/frequency_trigger_rtl.vhd,1772066218,vhdl,C:/Users/shipr/Downloads/tutorial code/modulator_rtl.vhd;C:/Users/shipr/Downloads/tutorial code/pwm_rtl.vhd,,,frequency_trigger,,,,,,,,
+C:/Users/shipr/Downloads/tutorial code/modulator_rtl.vhd,1771600034,vhdl,C:/Users/shipr/Downloads/tutorial code/modulator_wrapper_rtl.vhd,,,modulator,,,,,,,,
+C:/Users/shipr/Downloads/tutorial code/modulator_wrapper_rtl.vhd,1771600034,vhdl,,,,modulator_wrapper,,,,,,,,
+C:/Users/shipr/Downloads/tutorial code/pwm_rtl.vhd,1771601170,vhdl,C:/Users/shipr/Downloads/tutorial code/modulator_rtl.vhd,,,pwm,,,,,,,,
+C:/Users/shipr/Downloads/tutorial code/sine_package_rtl.vhd,1772066218,vhdl,C:/Users/shipr/Downloads/tutorial code/digital_sine_rtl.vhd;C:/Users/shipr/Downloads/tutorial code/modulator_rtl.vhd;C:/Users/shipr/Downloads/tutorial code/modulator_wrapper_rtl.vhd,,,modulator_pkg,,,,,,,,
