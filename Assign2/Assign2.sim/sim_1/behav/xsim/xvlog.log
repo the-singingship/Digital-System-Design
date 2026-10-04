@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shipr/Downloads/Assign2/counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shipr/Downloads/Assign2/lfsr_22bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lfsr_22bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shipr/Downloads/Assign2/seq_detector.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seq_detector
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shipr/Downloads/Assign2/tb_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_top

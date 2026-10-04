@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+==============================================
+TB | 25370745 Shipra Singh -- Assignment 2
+TB | XNOR LFSR 22-bit | Codeword: 010110
+TB | Seed: 0x79 | Expected count: 65536
+==============================================
+PASS Test 1: Reset -- count = 0
+TB | First detection at time 575000

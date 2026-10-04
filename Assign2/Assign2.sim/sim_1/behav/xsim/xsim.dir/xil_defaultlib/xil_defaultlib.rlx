@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Digital System Design/Assign2/Assign2.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+C:/Users/shipr/Downloads/Assign2/counter.v,1775441242,verilog,,C:/Users/shipr/Downloads/Assign2/lfsr_22bit.v,,counter,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/shipr/Downloads/Assign2/lfsr_22bit.v,1775440568,verilog,,C:/Users/shipr/Downloads/Assign2/seq_detector.v,,lfsr_22bit,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/shipr/Downloads/Assign2/seq_detector.v,1775423485,verilog,,C:/Users/shipr/Downloads/Assign2/tb_top.v,,seq_detector,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/shipr/Downloads/Assign2/tb_top.v,1775423485,verilog,,,,tb_top,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
