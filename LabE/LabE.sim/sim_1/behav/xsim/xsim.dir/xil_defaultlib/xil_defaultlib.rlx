@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Digital System Design/LabE/LabE.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+C:/Digital System Design/LabE/LabE.srcs/sim_1/new/tb_adder_subtractor.v,1772474906,verilog,,,,tb_adder_subtractor,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Digital System Design/LabE/LabE.srcs/sources_1/new/adder.v,1772417062,verilog,,C:/Digital System Design/LabE/LabE.srcs/sources_1/new/adder_subtractor.v,,adder,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Digital System Design/LabE/LabE.srcs/sources_1/new/adder_subtractor.v,1772416714,verilog,,C:/Digital System Design/LabE/LabE.srcs/sim_1/new/tb_adder_subtractor.v,,adder_subtractor,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
